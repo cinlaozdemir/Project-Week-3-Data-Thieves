@@ -47,6 +47,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[https://github.com/cinlaozdemir/Project-Week-3-Data-Thieves]
-[Slides](https://slides.com/)  
-[https://trello.com/b/JsX1N6gJ/project-3-estefo-cinla]
+Repository: https://github.com/cinlaozdemir/Project-Week-3-Data-Thieves
+Slides: [Slides](https://slides.com/)  
+Trello: [https://trello.com/b/JsX1N6gJ/project-3-estefo-cinla]
