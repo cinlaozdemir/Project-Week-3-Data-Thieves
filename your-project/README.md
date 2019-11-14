@@ -16,6 +16,7 @@
 
 ## Project Description
 Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+This project is an analysis of suicide rates all over the world between 1990-2015. For 2015, education levels and suicide rated of different countries are compared to see if there is a correlation between them.
 
 ## Questions & Hypotheses
 
@@ -31,6 +32,8 @@ Q9) Does education level affect suicide rates?
 
 
 ## Dataset
+First dataset we used is this csv that has https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+
 What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
 
 ## Database
